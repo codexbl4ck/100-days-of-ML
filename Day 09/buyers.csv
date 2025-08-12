@@ -1,0 +1,15 @@
+Age,Income,Student,Buys
+<=30,High,No,No
+<=30,High,No,No
+31-40,High,No,Yes
+>40,Medium,No,Yes
+>40,Low,Yes,Yes
+>40,Low,Yes,No
+31-40,Low,Yes,Yes
+<=30,Medium,No,No
+<=30,Low,Yes,Yes
+>40,Medium,Yes,Yes
+<=30,Medium,Yes,Yes
+31-40,Medium,No,Yes
+31-40,High,Yes,Yes
+>40,Medium,No,No
