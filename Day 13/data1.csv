@@ -1,0 +1,11 @@
+Country,Age,Gender,	Department,	Salary
+India,25,Male,HR,50000
+USA,30,Female,Tech,70000
+UK,NaN,Female,Finance,65000
+India,22,None,HR,48000
+UK,28,Male,Tech,68000
+USA,NaN,Female,Finance,63000
+India,27,None,Tech,59000
+USA,29,Male,HR,72000
+None,26,Female,Tech,61000
+UK,24,Male,Finance,64000
